@@ -1,0 +1,17 @@
+<rss xmlns:blogChannel="http://backend.userland.com/blogChannelModule" version="2.0">
+<channel>
+<title>good</title>
+<link>http://feeds.rapidfeeds.com/79167/</link>
+<atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="via" href="http://feeds.rapidfeeds.com/79167/" type="application/rss+xml"/>
+<atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="http://feeds.rapidfeeds.com/79167/" type="application/rss+xml"/>
+<description>
+<![CDATA[
+{{MmVhZGFkMmQ2NGM2YzYwNWE1ZTVlNjA1MjQ4NWU2NjU0NWE1ZTZjNTA1YzY4YTRkNDVlZjQ1Y2ZhNTg1YWQyZWNmMGM4NWM2ZWY0NTBmZWY0NWVmMGY0ZGVmNDU2NWU2MmQyZTJkMjM=}}
+]]>
+</description>
+<pubDate>Tue, 21 Jul 2015 05:03:09 EST</pubDate>
+<docs>http://backend.userland.com/rss</docs>
+<generator>RapidFeeds v2.0 -- http://www.rapidfeeds.com</generator>
+<language>en</language>
+</channel>
+</rss>
